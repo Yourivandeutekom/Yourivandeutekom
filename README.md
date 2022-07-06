@@ -9,7 +9,7 @@ JavaScript, maybe some libraries, apps, working on back ends. Lots to learn, but
 My next goal(s) i would like to achieve in a month (06-08):
  -  Handcraft Portfolio website in HTML & CSS.
  -  'recoding' 5 local restaurant websites in HTML & CSS.
- -  Starting a JavaScript. 
+ -  Starting a JavaScript course. 
 
 I will use the portfolio and local restaurant websites to apply my new knowledge to.
 
