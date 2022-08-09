@@ -1,19 +1,14 @@
 Hi, i'm Youri van Deutekom.
 
-I started making Wordpress websites since the start of my study interaction design back in 2012. Learned myself the very basics in HTML, CSS, PHP and MySQL.
-Since a few years i'm more interested in the arts of handcraft programming (websites?) started a study and now i'm exploring the beautifull world of Full stack development.
+Since 2012 I started to build websites with Wordpress. As a rookie I started to edit PHP files which shouldn't be edited. I was hungry to code websites from scratch but instead I started filling in Wordpress websites with some basic HTML and CSS. 
 
-Currently i'm retaking a course on HTML and CSS. Just to read about things what i could have missed. This year i want to dive deeper in to the world,
-JavaScript, maybe some libraries, apps, working on back ends. Lots to learn, but i'm very excited to do so!
+Since 2021 my hunger came back and I started a course as a Full Stack developer. Got some certificated in HTML, CSS, PHP & MySQL and finished a course in JavaScript. Since then i'm very interested in this amazing field and I want to build my knowledge from here.
 
-My next goal(s) i would like to achieve in a month (06-08):
- -  Handcraft Portfolio website in HTML & CSS.
- -  'recoding' 5 local restaurant websites in HTML & CSS.
- -  Starting a JavaScript course. 
+Since this year I found CodeCademy and started the Full Stack Course.
 
-I will use the portfolio and local restaurant websites to apply my new knowledge to.
+As a part of the CodeCademy Full Stack Course i'm taking a course on the foundations of web development. Where HTML and CSS are the key. My goal is to learn more about FlexBox and Grid and start to build 'basic' websites more often just for practise and build my portfolio. The web development foundations course is a top of the iceberg I want to learn this year. I want to extend my knowledge about JavaScript and build more applications and start to learn a new framework: Reactjs. 
 
-The big goal?
-  - Full Stack Developer
-
-Currently i'm not open on collaborates, you can reach me in the future on my portfolio.
+My next goal(s) i would like to achieve:
+ -  Portfolio website
+ -  Starting the JavaScript course. 
+ -  Learn a framework (reactjs)
