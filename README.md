@@ -12,3 +12,5 @@ My next goal(s) i would like to achieve:
  -  Portfolio website
  -  Starting the JavaScript course. 
  -  Learn a framework (reactjs)
+
+Follow my progression!
